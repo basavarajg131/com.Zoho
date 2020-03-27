@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Default test Excecution Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyCRMValidLoginTest Test Started]]>
+    </line>
+    <line>
+      <![CDATA[Title is Matching==>PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Title is Matching==>PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Campaign Tab is displayed]]>
+    </line>
+    <line>
+      <![CDATA[Campaign Name  Verification is Matching==>PASSED]]>
+    </line>
+    <line>
+      <![CDATA[Actual Camp Name Text Verification is Matching==>PASSED]]>
+    </line>
+    <line>
+      <![CDATA[verifyCRMValidLoginTest Test Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="150680" started-at="2019-08-30T11:27:40Z" finished-at="2019-08-30T11:30:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="150680" started-at="2019-08-30T11:27:40Z" finished-at="2019-08-30T11:30:11Z">
+      <class name="com.zoho.LoginTest.CRMLoginTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.zoho.LoginTest.CRMLoginTest@51565ec2]" name="openBrowser" is-config="true" duration-ms="58489" started-at="2019-08-30T16:57:40Z" finished-at="2019-08-30T16:58:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyCRMValidLoginTest()[pri:0, instance:com.zoho.LoginTest.CRMLoginTest@51565ec2]" name="verifyCRMValidLoginTest" duration-ms="92146" started-at="2019-08-30T16:58:38Z" finished-at="2019-08-30T17:00:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[verifyCRMValidLoginTest Test Started]]>
+            </line>
+            <line>
+              <![CDATA[Title is Matching==>PASSED]]>
+            </line>
+            <line>
+              <![CDATA[Title is Matching==>PASSED]]>
+            </line>
+            <line>
+              <![CDATA[Campaign Tab is displayed]]>
+            </line>
+            <line>
+              <![CDATA[Campaign Name  Verification is Matching==>PASSED]]>
+            </line>
+            <line>
+              <![CDATA[Actual Camp Name Text Verification is Matching==>PASSED]]>
+            </line>
+            <line>
+              <![CDATA[verifyCRMValidLoginTest Test Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCRMValidLoginTest -->
+      </class> <!-- com.zoho.LoginTest.CRMLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
