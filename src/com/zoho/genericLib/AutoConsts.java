@@ -2,7 +2,7 @@ package com.zoho.genericLib;
 
 /**
  * This interface contains all the constants of the automation framework
- * @author BTM-Faculty
+ * @author Basavaraj
  *
  */
 public interface AutoConsts {
