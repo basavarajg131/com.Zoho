@@ -13,7 +13,7 @@ import org.testng.Reporter;
 
 /**
  * This generic class contains reusable webdriver controls
- * @author BTM-Faculty
+ * @author Basavaraj
  *
  */
 public class WebDriverCommonLib extends BaseTest {
